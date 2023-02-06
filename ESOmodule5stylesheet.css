@@ -1,0 +1,45 @@
+main>h2{
+    color: yellow;
+    
+}
+header>h1 {
+    color: black;
+    margin-left: 13em;
+
+}
+header>a>img {
+    margin-left: 400px;
+}
+a:link {
+    color: white;
+}
+ul, ol {
+    font-style: italic;
+    font-size: 1.5em;
+    color: white;
+    
+}
+main {
+    margin-left: 5em;
+    
+}
+#class1 {
+   font-size: 150%;
+   color: yellow;
+}
+a[href] {
+    font-family: sans-serif;
+}
+#class1 {
+    border: 2px solid #5b32a8;
+    border-radius: 10px 10px 10px 10px;
+}
+body {
+    background-image: url("bestesoback.jpg");
+    background-size: cover;
+}
+footer>p {
+    color: white;
+    margin-left: 35em;
+    
+}
